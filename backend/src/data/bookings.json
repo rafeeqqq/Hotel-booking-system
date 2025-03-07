@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "hotelId": 2,
+    "checkIn": "2025-03-08T00:00:00.000Z",
+    "checkOut": "2025-03-13T00:00:00.000Z",
+    "status": "checked-in",
+    "guests": [
+      {
+        "id": 100,
+        "name": "Rafeeq",
+        "aadhaarNo": "343275632969"
+      }
+    ],
+    "createdAt": "2025-03-07T18:50:54.601Z",
+    "updatedAt": "2025-03-07T18:51:00.279Z"
+  }
+]
